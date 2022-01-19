@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jaredchristensen/Documents/GitHub/mission2/mission2assignment/mission2assignment/mission2assignment.csproj": {}
+    "/Users/jaredchristensen/Documents/GitHub/GradeCalculator/mission2assignment/mission2assignment.csproj": {}
   },
   "projects": {
-    "/Users/jaredchristensen/Documents/GitHub/mission2/mission2assignment/mission2assignment/mission2assignment.csproj": {
+    "/Users/jaredchristensen/Documents/GitHub/GradeCalculator/mission2assignment/mission2assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jaredchristensen/Documents/GitHub/mission2/mission2assignment/mission2assignment/mission2assignment.csproj",
+        "projectUniqueName": "/Users/jaredchristensen/Documents/GitHub/GradeCalculator/mission2assignment/mission2assignment.csproj",
         "projectName": "mission2assignment",
-        "projectPath": "/Users/jaredchristensen/Documents/GitHub/mission2/mission2assignment/mission2assignment/mission2assignment.csproj",
+        "projectPath": "/Users/jaredchristensen/Documents/GitHub/GradeCalculator/mission2assignment/mission2assignment.csproj",
         "packagesPath": "/Users/jaredchristensen/.nuget/packages/",
-        "outputPath": "/Users/jaredchristensen/Documents/GitHub/mission2/mission2assignment/mission2assignment/obj/",
+        "outputPath": "/Users/jaredchristensen/Documents/GitHub/GradeCalculator/mission2assignment/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jaredchristensen/.config/NuGet/NuGet.Config"

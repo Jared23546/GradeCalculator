@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UhZyBcFo0BLHAwuxgcl4fCmV2g7vG3vbSwo/XuYzEGKbse2SiaIwQyT2aePhzNt3a+Dhk76/A1/LQTwCMldQ4w==",
+  "dgSpecHash": "ck3/QKNEMJy1qdP+Pg2lqpXfvxACwcUEF8vWyWnKb8gq7WVyhNC/Qp5M3FuHu6b9OF0AStOJpE12CWGeBWX8rw==",
   "success": true,
-  "projectFilePath": "/Users/jaredchristensen/Documents/GitHub/mission2/mission2assignment/mission2assignment/mission2assignment.csproj",
+  "projectFilePath": "/Users/jaredchristensen/Documents/GitHub/GradeCalculator/mission2assignment/mission2assignment.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
