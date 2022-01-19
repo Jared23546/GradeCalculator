@@ -91,3 +91,5 @@
 /Users/jaredchristensen/Documents/GitHub/GradeCalculator/mission2assignment/obj/Debug/netcoreapp3.1/mission2assignment.csproj.CopyComplete
 /Users/jaredchristensen/Documents/GitHub/GradeCalculator/mission2assignment/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
 /Users/jaredchristensen/Documents/GitHub/GradeCalculator/mission2assignment/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/jaredchristensen/Documents/GitHub/GradeCalculator/mission2assignment/obj/Debug/netcoreapp3.1/Razor/Views/Blah/GradeCalc.cshtml.g.cs
+/Users/jaredchristensen/Documents/GitHub/GradeCalculator/mission2assignment/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs

@@ -27,12 +27,12 @@ namespace mission2assignment
             app.UseRouting();
 
             app.UseEndpoints(endpoints =>
-                {
-                    endpoints.MapControllerRoute(
-                        name: "default",
-                        pattern: "{controller-Blah}/{action=Index}/{id?}"
-                        );
-                });
+            {
+                endpoints.MapControllerRoute(
+                    name: "default",
+                    pattern: "{controller=Blah}/{action=Index}/{id?}"
+                );
+            });
         }
     }
 }
