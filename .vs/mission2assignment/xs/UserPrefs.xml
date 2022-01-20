@@ -1,14 +1,14 @@
 ﻿<Properties StartupConfiguration="{873E6D56-FFCB-4BEA-996D-F8EEF9EDD805}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="mission2assignment/wwwroot/css/default1.css">
+  <MonoDevelop.Ide.Workbench ActiveDocument="mission2assignment/Models/GradeCalcModel.cs">
     <Files>
       <File FileName="mission2assignment/Views/Shared/_Layout.cshtml" Line="28" Column="1" />
-      <File FileName="mission2assignment/Models/GradeCalcModel.cs" Line="25" Column="1" />
-      <File FileName="mission2assignment/Views/Blah/GradeCalc.cshtml" Line="28" Column="1" />
-      <File FileName="mission2assignment/Controllers/BlahController.cs" Line="1" Column="1" />
-      <File FileName="mission2assignment/wwwroot/js/GradeCalc.js" Line="13" Column="18" />
+      <File FileName="mission2assignment/Models/GradeCalcModel.cs" Line="1" Column="1" />
+      <File FileName="mission2assignment/Views/Blah/GradeCalc.cshtml" Line="1" Column="1" />
+      <File FileName="mission2assignment/Controllers/BlahController.cs" Line="28" Column="10" />
+      <File FileName="mission2assignment/wwwroot/js/GradeCalc.js" />
       <File FileName="mission2assignment/Views/Blah/Index.cshtml" Line="1" Column="1" />
-      <File FileName="mission2assignment/Views/_ViewImports.cshtml" Line="3" Column="5" />
-      <File FileName="mission2assignment/wwwroot/css/default1.css" Line="7" Column="1" />
+      <File FileName="mission2assignment/Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="mission2assignment/wwwroot/css/default1.css" />
       <File FileName="mission2assignment/Views/_ViewStart.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
@@ -17,15 +17,15 @@
           <Node name="mission2assignment" expanded="True">
             <Node name="mission2assignment" expanded="True">
               <Node name="Controllers" expanded="True" />
-              <Node name="Models" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="GradeCalcModel.cs" selected="True" />
+              </Node>
               <Node name="Views" expanded="True">
                 <Node name="Blah" expanded="True" />
                 <Node name="Shared" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True">
-                <Node name="css" expanded="True">
-                  <Node name="default1.css" selected="True" />
-                </Node>
+                <Node name="css" expanded="True" />
                 <Node name="js" expanded="True" />
               </Node>
             </Node>
